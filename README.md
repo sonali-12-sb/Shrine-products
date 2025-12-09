@@ -29,9 +29,9 @@ The **Shrine** app features a **beautiful and visually appealing UI design**, en
 
 ### 🖼️ Screenshots  
 
- <img src="images/shrine1.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="images/shrine2.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="images/shrine3.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="shrine1.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="shrine2.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="shrine3.jpg" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
  
 ---
 
